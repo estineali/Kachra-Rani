@@ -1,5 +1,8 @@
-# Kachra_Rani
-Garbage classification
+# Kachra Rani
+    Garbage classification using Machine Learning in Python
+    CS351 Artificial Intelligence
+    Fall 2020
+    Habib University
 
 #### The Team:
     1. Inara Naseem G. H. Chagani 
